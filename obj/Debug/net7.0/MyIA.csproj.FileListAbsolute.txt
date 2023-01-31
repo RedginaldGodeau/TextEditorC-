@@ -1,0 +1,15 @@
+C:\Users\redgi\Documents\c#\MyIA\obj\Debug\net7.0\MyIA.csproj.AssemblyReference.cache
+C:\Users\redgi\Documents\c#\MyIA\obj\Debug\net7.0\MyIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redgi\Documents\c#\MyIA\obj\Debug\net7.0\MyIA.AssemblyInfoInputs.cache
+C:\Users\redgi\Documents\c#\MyIA\obj\Debug\net7.0\MyIA.AssemblyInfo.cs
+C:\Users\redgi\Documents\c#\MyIA\obj\Debug\net7.0\MyIA.csproj.CoreCompileInputs.cache
+C:\Users\redgi\Documents\c#\MyIA\bin\Debug\net7.0\MyIA.exe
+C:\Users\redgi\Documents\c#\MyIA\bin\Debug\net7.0\MyIA.deps.json
+C:\Users\redgi\Documents\c#\MyIA\bin\Debug\net7.0\MyIA.runtimeconfig.json
+C:\Users\redgi\Documents\c#\MyIA\bin\Debug\net7.0\MyIA.dll
+C:\Users\redgi\Documents\c#\MyIA\bin\Debug\net7.0\MyIA.pdb
+C:\Users\redgi\Documents\c#\MyIA\obj\Debug\net7.0\MyIA.dll
+C:\Users\redgi\Documents\c#\MyIA\obj\Debug\net7.0\refint\MyIA.dll
+C:\Users\redgi\Documents\c#\MyIA\obj\Debug\net7.0\MyIA.pdb
+C:\Users\redgi\Documents\c#\MyIA\obj\Debug\net7.0\MyIA.genruntimeconfig.cache
+C:\Users\redgi\Documents\c#\MyIA\obj\Debug\net7.0\ref\MyIA.dll
