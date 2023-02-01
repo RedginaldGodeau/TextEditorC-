@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\redgi\\.nuget\\packages\\": {}
+    "/Users/redginald/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\redgi\\Documents\\c#\\MyIA\\MyIA.csproj",
+      "projectUniqueName": "/Users/redginald/Documents/Web/MyAI/TextEditorC-/MyIA.csproj",
       "projectName": "MyIA",
-      "projectPath": "C:\\Users\\redgi\\Documents\\c#\\MyIA\\MyIA.csproj",
-      "packagesPath": "C:\\Users\\redgi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\redgi\\Documents\\c#\\MyIA\\obj\\",
+      "projectPath": "/Users/redginald/Documents/Web/MyAI/TextEditorC-/MyIA.csproj",
+      "packagesPath": "/Users/redginald/.nuget/packages/",
+      "outputPath": "/Users/redginald/Documents/Web/MyAI/TextEditorC-/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\redgi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/redginald/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
